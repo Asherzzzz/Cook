@@ -4,7 +4,9 @@
 
 复制下面这句话，把最后的占位内容换成你的菜谱链接：
 
-> 参考 https://github.com/Asherzzzz/flavor-chef 帮我安排一桌菜，菜谱链接：[链接1]、[链接2]、[链接3]。
+```text
+参考 https://github.com/Asherzzzz/flavor-chef 帮我安排一桌菜，菜谱链接：[链接1]、[链接2]、[链接3]。
+```
 
 ## 效果预览
 
